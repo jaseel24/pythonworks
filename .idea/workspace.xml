@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df3466d5-7e40-4cee-8691-417730f331dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listwork/list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonlist/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonlist/list.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +122,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.common_numbers_from_list">
+  <component name="RunManager" selected="Python.most_repeated_num_in_lst">
     <configuration name="appendlst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pyramid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="most_repeated_num_in_lst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,8 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flowcontrol/pyramid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flowcontrol/most_repeated_num_in_lst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,19 +230,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.most_repeated_num_in_lst" />
       <item itemvalue="Python.appendlst" />
       <item itemvalue="Python.common_numbers_from_list" />
       <item itemvalue="Python.reverse" />
       <item itemvalue="Python.list" />
-      <item itemvalue="Python.pyramid" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.most_repeated_num_in_lst" />
         <item itemvalue="Python.common_numbers_from_list" />
         <item itemvalue="Python.appendlst" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.reverse" />
-        <item itemvalue="Python.pyramid" />
       </list>
     </recent_temporary>
   </component>
