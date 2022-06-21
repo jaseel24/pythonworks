@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df3466d5-7e40-4cee-8691-417730f331dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listwork/list_mid.py" beforeDir="false" afterPath="$PROJECT_DIR$/listwork/list_mid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listwork/nestedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/listwork/nestedlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listwork/products.py" beforeDir="false" afterPath="$PROJECT_DIR$/listwork/products.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mathoperation/operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathoperation/operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,8 +129,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.dictionary">
-    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.account">
+    <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wordcount" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcount/account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_common_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,12 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listwork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listwork/list_common_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="products" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="recursive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,12 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listwork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wordcount" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listwork/products.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcount/recursive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rmv_dupli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wordcount" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/rmv_dupli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcount/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tupldemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wrdcount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wordcount" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple/tupldemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcount/wrdcount.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,19 +236,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.dictionary" />
-      <item itemvalue="Python.rmv_dupli" />
-      <item itemvalue="Python.tupldemo" />
-      <item itemvalue="Python.products" />
-      <item itemvalue="Python.list_common_num" />
+      <item itemvalue="Python.account" />
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.dict" />
+      <item itemvalue="Python.recursive" />
+      <item itemvalue="Python.wrdcount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dictionary" />
-        <item itemvalue="Python.rmv_dupli" />
-        <item itemvalue="Python.products" />
-        <item itemvalue="Python.tupldemo" />
-        <item itemvalue="Python.list_common_num" />
+        <item itemvalue="Python.account" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.wrdcount" />
+        <item itemvalue="Python.recursive" />
+        <item itemvalue="Python.dict" />
       </list>
     </recent_temporary>
   </component>
