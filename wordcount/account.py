@@ -47,6 +47,7 @@ accounts = [
 #q4 prit all phone pay transactions
 
 # all_transaction=[ac["transactions"] for ac in accounts ]
+# print(all_transaction)
 # p_trans=[tr for tlist in all_transaction for tr in tlist if tr["method"]=="phone-pay"]
 # print(p_trans)
 #
